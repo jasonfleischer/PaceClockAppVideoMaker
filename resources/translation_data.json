@@ -1,0 +1,74 @@
+{
+    "en": {
+        "Swimming": "Swimming",
+        "Running": "Running",
+        "Stretching": "Stretching",
+        "Training": "Training",
+        "Studying": "Studying",
+        "Demo": "Demo",
+        "Download links are in video description": "Download links are in video description"
+    },
+    "de": {
+        "Swimming": "Schwimmen",
+        "Running": "Laufen",
+        "Stretching": "Dehnen",
+        "Training": "Training",
+        "Studying": "Studieren",
+        "Demo": "Demo",
+        "Download links are in video description": "Download-Links befinden sich in der Video-Beschreibung"
+    },
+    "es": {
+        "Swimming": "Natación",
+        "Running": "Correr",
+        "Stretching": "Estiramiento",
+        "Training": "Entrenamiento",
+        "Studying": "Estudiar",
+        "Demo": "Demo",
+        "Download links are in video description": "Los enlaces de descarga están en la descripción del video"
+    },
+    "fr": {
+        "Swimming": "Natation",
+        "Running": "Course à pied",
+        "Stretching": "Étirement",
+        "Training": "Entraînement",
+        "Studying": "Étudier",
+        "Demo": "Démo",
+        "Download links are in video description": "Les liens de téléchargement se trouvent dans la description de la vidéo"
+    },
+    "it": {
+        "Swimming": "Nuoto",
+        "Running": "Corsa",
+        "Stretching": "Stretching",
+        "Training": "Allenamento",
+        "Studying": "Studiare",
+        "Demo": "Demo",
+        "Download links are in video description": "I link per il download si trovano nella descrizione del video"
+    },
+    "ja": {
+        "Swimming": "水泳",
+        "Running": "ランニング",
+        "Stretching": "ストレッチ",
+        "Training": "トレーニング",
+        "Studying": "勉強",
+        "Demo": "デモ",
+        "Download links are in video description": "動画の説明欄にダウンロードリンクがあります"
+    },
+    "ko": {
+        "Swimming": "수영",
+        "Running": "달리기",
+        "Stretching": "스트레칭",
+        "Training": "트레이닝",
+        "Studying": "공부",
+        "Demo": "데모",
+        "Download links are in video description": "동영상 설명란에 다운로드 링크가 있습니다"
+    },
+    "pt": {
+        "Swimming": "Natação",
+        "Running": "Corrida",
+        "Stretching": "Alongamento",
+        "Training": "Treinamento",
+        "Studying": "Estudando",
+        "Demo": "Demo",
+        "Download links are in video description": "Os links para download estão na descrição do vídeo"
+    }
+}
