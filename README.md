@@ -3,6 +3,6 @@ A python script used to make a video for the [Pace Clock](https://apps.apple.com
 
 
 <div style="width: 200px">
-  [![https://youtu.be/Bcw28raMS_s](https://img.youtube.com/vi/Bcw28raMS_s/hqdefault.jpg){ width: 200px; }](https://youtu.be/Bcw28raMS_s)  
+  [![https://youtu.be/Bcw28raMS_s](https://img.youtube.com/vi/Bcw28raMS_s/hqdefault.jpg)](https://youtu.be/Bcw28raMS_s)  
 </div>
 https://youtu.be/Bcw28raMS_s
